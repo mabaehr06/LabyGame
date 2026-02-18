@@ -1,5 +1,3 @@
-
-
 # Labygame
 
 ## Goal
@@ -24,6 +22,3 @@ You have 4 spells that you can use in total during the labyrinth:
 ## Contributors
 
 See the list of contributors here: [Contributors](../../graphs/contributors)
-
-
-# **Have fun**
