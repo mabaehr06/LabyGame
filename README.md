@@ -1,3 +1,5 @@
+
+
 # Labygame
 
 ## Goal
@@ -19,9 +21,9 @@ You have 4 spells that you can use in total during the labyrinth:
 - The stop pannel: freeze the timer for 5-sec where you can see
 - and 2 mores...
 
-## Credits
-Made by 3 persons for a student goal\
-Made in Python in 1 month
+## Contributors
+
+See the list of contributors here: [Contributors](../../graphs/contributors)
 
 
 # **Have fun**
